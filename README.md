@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI and ML. With former intern experience at LinkedIn and Ericsson as an ML Engineer, I am excited about the latest progress in NLP and ML more broadly - both from a foundational and application POV.
+Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI and ML. With former ML Engineering experience at **LinkedIn** and Ericsson, I am excited about the latest progress in NLP and ML more broadly - both from a foundational and application POV.
 
 ---
 
