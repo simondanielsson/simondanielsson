@@ -1,12 +1,12 @@
 # Hi there, I'm Simon Danielsson 👋
 
-Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI and ML. Former ML Engineer at LinkedIn and Ericsson, where I honed scalable ML systems and models.
+Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI and ML. With former intern experience at LinkedIn and Ericsson as an ML Engineer, I am excited about the latest progress in NLP and ML more broadly - both from a foundational and application POV.
 
 ---
 
 ##  What I Do
 
-- **ML Engineering**—reading, learning, and contributing to everything related to ML. I contribute to the Hugging Face ecosystem and GitHub’s official MCP server. I love designing tools that empower developers and researchers.
+- **NLP & ML Engineering**—reading, learning, and contributing to anything related to NLP and ML. I contribute to the Hugging Face ecosystem and GitHub’s official MCP server. I love designing tools that empower developers and researchers.
 - **GenAI Web Apps**—building demo-driven, interactive apps to showcase AI models in action.
   
 ---
@@ -19,7 +19,8 @@ See below
 
 ##  What I’m Exploring
 
-- Everything related to ML.
+- NLP
+- ML more broadly
 - OCaml
 - Advanced DS&A
 
