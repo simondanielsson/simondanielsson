@@ -20,8 +20,7 @@ See below
 
 ##  What I’m Exploring
 
-- NLP
-- ML more broadly
+- NLP, quantization
 - OCaml
 - Advanced DS&A
 
