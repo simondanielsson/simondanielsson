@@ -6,7 +6,7 @@ Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI a
 
 ##  What I Enjoy
 
-- **NLP & ML Engineering:** reading, learning, and contributing to anything related to NLP and ML. I contribute to the Hugging Face ecosystem and GitHub’s official MCP server. I love designing tools that empower developers and researchers.
+- **NLP & DL Inference:** reading, learning, and contributing to anything related to NLP, deep learning, and DL inference. I contribute to the Hugging Face ecosystem, vllm, and GitHub’s official MCP server. I love designing tools that empower developers and researchers.
 - **GenAI Web Apps:** building demo-driven, interactive apps to showcase AI models in action.
 - **Neovim:** learning new ways to configure and use my favorite editor, as well as writing plugins.
   
@@ -20,7 +20,7 @@ See below
 
 ##  What I’m Exploring
 
-- NLP, quantization
+- NLP, deep learning, inference optimization
 - OCaml
 - Advanced DS&A
 
