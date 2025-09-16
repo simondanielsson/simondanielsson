@@ -12,15 +12,9 @@ Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI a
   
 ---
 
-##  Featured Projects
-
-See below
-
----
-
 ##  What I’m Exploring
 
-- NLP, deep learning, inference optimization
+- Deep learning inference & optimization
 - OCaml
 - Advanced DS&A
 
