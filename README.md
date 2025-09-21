@@ -1,26 +1,13 @@
 # Hi there, I'm Simon 👋
 
-Data Scientist at **BCG X** in Stockholm, tackling real-world problems with AI and ML. With former ML Engineering experience at **LinkedIn** and Ericsson, I am excited about the latest progress in NLP and ML more broadly - both from a foundational and application POV.
+- 👨‍💼 Data Scientist at **BCG X** in Stockholm, with former ML Engineering experience at **LinkedIn**.
+- 🌱 Interested in NLP, DL inference, GenAI applications, Neovim.
+- 👯 Enjoy contributing to vLLM/HF ecosystem.
+- 🔭 Exploring CUDA, OCaml, and latest DL advances.
 
 ---
 
-##  What I Enjoy
-
-- **NLP & DL Inference:** reading, learning, and contributing to anything related to NLP, deep learning, and DL inference. I contribute to the Hugging Face ecosystem, vllm, and GitHub’s official MCP server. I love designing tools that empower developers and researchers.
-- **GenAI Web Apps:** building demo-driven, interactive apps to showcase AI models in action.
-- **Neovim:** learning new ways to configure and use my favorite editor, as well as writing plugins.
-  
----
-
-##  What I’m Exploring
-
-- Deep learning inference & optimization
-- OCaml
-- Advanced DS&A
-
----
-
-##  Let’s Connect
+##  Let’s Connect 📫
 
 - LinkedIn: [Simon Danielsson](https://www.linkedin.com/in/simon-danielsson/)  
 - Email: [simon.danielsson99@hotmail.com](simon.danielsson99@hotmail.com)
