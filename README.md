@@ -1,7 +1,7 @@
 # Hi there, I'm Simon 👋
 
 - 👨‍💼 Senior Data Scientist at **BCG X** in Stockholm, with former ML Engineering experience at **LinkedIn**.
-- 🌱 Interested in NLP, DL inference, GenAI applications, Neovim.
+- 🌱 Interested in NLP, DL inference, HPC, GenAI, Neovim.
 - 👯 Enjoy contributing to vLLM/HF ecosystem.
 - 🔭 Exploring HPC, inference optimization, CUDA, OCaml, and latest DL advances.
 - 📘 Part of EleutherAI's ML Performance reading group. You should join us!
