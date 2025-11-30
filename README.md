@@ -1,4 +1,5 @@
 # Hi there, I'm Simon 👋
+_Checkout my [blog](https://simondanielsson.github.io/)!_ 🖥️
 
 - 👨‍💼 Senior Data Scientist at **BCG X** in Stockholm, with former ML Engineering experience at **LinkedIn**.
 - 🌱 Interested in NLP, DL inference, HPC, GenAI, Neovim.
