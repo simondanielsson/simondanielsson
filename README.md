@@ -2,10 +2,7 @@
 _Checkout my [blog](https://simondanielsson.github.io/)!_ 🖥️
 
 - 👨‍💼 Senior AI Engineer at **BCG X** in Stockholm, with former ML Engineering experience at **LinkedIn**.
-- 🌱 Interested in NLP, DL inference, HPC, GenAI, Neovim.
-- 👯 Enjoy contributing to vLLM/HF ecosystem.
-- 🔭 Exploring HPC, inference optimization, CUDA, OCaml, and latest DL advances.
-- 📘 Part of EleutherAI's ML Performance reading group. You should join us!
+- 🌱 I like NLP, Inference, HPC, Neovim.
 
 ---
 
