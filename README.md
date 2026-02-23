@@ -1,8 +1,7 @@
 # Hi there, I'm Simon 👋
-_Checkout my [blog](https://simondanielsson.github.io/)!_ 🖥️
 
 - 👨‍💼 Senior AI Engineer at **BCG X** in Stockholm, with former ML Engineering experience at **LinkedIn**.
-- 🌱 I like NLP, Inference, HPC, Neovim.
+- 🌱 I like MLSys, Inference, NLP, HPC, Neovim.
 
 ---
 
@@ -10,8 +9,6 @@ _Checkout my [blog](https://simondanielsson.github.io/)!_ 🖥️
 
 - LinkedIn: [Simon Danielsson](https://www.linkedin.com/in/simon-danielsson/)  
 - Email: [simon.danielsson99@hotmail.com](simon.danielsson99@hotmail.com)
-
-I’m always open to chat about AI, ML engineering, and building meaningful products—feel free to reach out!
 
 <!--
 **simondanielsson/simondanielsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
