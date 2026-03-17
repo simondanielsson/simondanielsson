@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-- 👨‍💼 Senior AI Engineer at **BCG X** in Stockholm, with former ML Engineering experience at **LinkedIn**.
+- 👨‍💼 MTS at AMD, Stockholm.
 - 🌱 I like MLSys, Inference, NLP, HPC, Neovim.
 
 ---
